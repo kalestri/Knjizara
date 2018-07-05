@@ -1,0 +1,6 @@
+K6|Naslov|Autor|Izd|499|15|2005
+K4|Alhemicar|Paulo Koeljo|Ne znam4|890|20|2000
+K3|Beskrajna Prica|Michael Ende|Ne znam3|940|53|1984
+K1|Lotr|Tolkien|Ne Znam|965|16|1954
+K2|Harry Potter|J.K. Rowling|Ne znam2|990|42|1995
+K5|Hazarski recnik|Pavic|Ne Znam 5|995|76|1970
